@@ -1,1 +1,1 @@
-show working directory
+show working directory pt
